@@ -1,0 +1,3 @@
+Top Category - Accuracy: 0.8088, Macro F1: 0.7778, Weighted F1: 0.8052
+Bottom Category (True Top) - Accuracy: 0.2519, Macro F1: 0.2464
+Bottom Category (Predicted Top) - Accuracy: 0.2056, Macro F1: 0.2028
